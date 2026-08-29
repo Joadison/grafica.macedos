@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 
-const WHATSAPP_NUMBER = '5585999999999'; // TODO: troque pelo número real com DDD
+const WHATSAPP_NUMBER = '5585987596656'; // TODO: troque pelo número real com DDD
 const WHATSAPP_MSG = encodeURIComponent('Olá! Quero fazer um orçamento.');
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MSG}`;
 const INSTAGRAM_URL = 'https://www.instagram.com/grafica.macedos/';
